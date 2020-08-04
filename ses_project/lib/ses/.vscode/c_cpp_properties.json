@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": ["C:/Users/lenovo/Documents/.platformio/packages/toolchain-atmelavr/avr/include"
+            ],
+            "defines": [
+                "F_CPU=16000000L",
+                "AVR_ATmega128RFA1",
+                ""
+            ],
+            "compilerPath": "~/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "clang-x64",
+            "compilerArgs": [
+                "-mmcu=atmega128rfa1",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

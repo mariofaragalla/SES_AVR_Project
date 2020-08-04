@@ -1,0 +1,60 @@
+{
+	"folders": [
+		{
+			"path": "task_1-1"
+		},
+		{
+			"path": "task_1-2"
+		},
+		{
+			"path": "task_1-3"
+		},
+		{
+			"path": "task_1-4to6"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "task_2-9"
+		},
+		{
+			"path": "task_2-3"
+		},
+		{
+			"path": "task_2-4to6"
+		},
+		{
+			"path": "task_2-7to8"
+		},
+		{
+			"path": "task_3-1"
+		},
+		{
+			"path": "task_4-2"
+		},
+		{
+			"path": "task_4-3"
+		},
+		{
+			"path": "task_5"
+		},
+		{
+			"path": "task_5-c"
+		},
+		{
+			"path": "task_6"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ses_led.h": "c",
+			"io.h": "c",
+			"ses_common.h": "c",
+			"defenitions.h": "c",
+			"ses_button.h": "c",
+			"ses_lcd.h": "c",
+			"delay.h": "c"
+		}
+	}
+}
